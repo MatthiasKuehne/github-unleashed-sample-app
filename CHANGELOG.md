@@ -1,5 +1,17 @@
 # Changelog
 
+## [0.1.0](https://github.com/MatthiasKuehne/github-unleashed-sample-app/compare/v0.0.1...v0.1.0) (2025-06-24)
+
+
+### Features
+
+* add a new link ([3f55ea2](https://github.com/MatthiasKuehne/github-unleashed-sample-app/commit/3f55ea22443957378424d2efdf06a132ed251b1b))
+
+
+### Bug Fixes
+
+* fix the header typo ([e42e4fe](https://github.com/MatthiasKuehne/github-unleashed-sample-app/commit/e42e4fee7a21a67455ec948616735068c8929f5e))
+
 ## 0.0.1 (2025-06-24)
 
 
